@@ -1,5 +1,5 @@
 <template>
-  <router-view />
+  <div>Portfolio Page!</div>
 </template>
 
 <script setup lang="ts"></script>
