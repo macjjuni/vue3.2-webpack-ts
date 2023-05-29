@@ -1,4 +1,4 @@
-# vue3-boilerplate
+# vue3.2 - boilerplate
 
 - [x] vue3.2
 - [x] vue-router
